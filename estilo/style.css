@@ -63,7 +63,7 @@ nav{
 
 nav > a {
     color: var(--cor1);
-    padding: 5px;
+    padding: 10px;
     text-decoration: none;
     font-weight: bolder;
     transition-duration: 0.4s;
